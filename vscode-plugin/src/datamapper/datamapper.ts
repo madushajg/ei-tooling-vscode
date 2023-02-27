@@ -99,7 +99,7 @@ export default class dataMapper {
           <body>
             <noscript>You need to enable JavaScript to run this app.</noscript>
             <div id="root"></div>
-            <script src="https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Hana/Projects/DataMapper/ei-tooling-vscode/vscode-plugin/webviews/build/static/js/main.8950bcf9.js"></script>
+            <script src="https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Hana/Projects/DataMapper/ei-tooling-vscode/vscode-plugin/webviews/build/static/js/main.bdb2e190.js"></script>
           </body>
         </html>
       `;
